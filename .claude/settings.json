@@ -1,0 +1,7 @@
+{
+  "lsp": {
+    "sourcekit-lsp": {
+      "command": "sourcekit-lsp"
+    }
+  }
+}
